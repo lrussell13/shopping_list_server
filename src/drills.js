@@ -61,4 +61,4 @@ function sumItemCategories(){
         })
   }
 
-sumItemCategories();
+//sumItemCategories();
